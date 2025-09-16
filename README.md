@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm [Your Name] 👋</h1>
 
-<h3 align="center">Data Analyst | ML Enthusiast | Power BI Developer</h3>
+<h3 align="center">Data Analyst | ML Enthusiast </h3>
 
 ---
 
