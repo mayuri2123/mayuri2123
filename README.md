@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Mayuri Chaudhari 👋</h1>
 
 <h3 align="center">Data Analyst | ML Enthusiast </h3>
 
